@@ -1,0 +1,122 @@
+{
+    "books": [
+      {
+        "bookId": 1,
+        "bookName": "Lojja",
+        "author": "Taslima Nasrin",
+        "image": "https://example.com/lojja.jpg",
+        "review": "A heart-wrenching story that explores communal tensions and humanity.",
+        "totalPages": 224,
+        "rating": 4.1,
+        "category": "Fiction",
+        "tags": ["Social Issues", "Controversial"],
+        "publisher": "Ananda Publishers",
+        "yearOfPublishing": 1993
+      },
+      {
+        "bookId": 2,
+        "bookName": "Amar Bondhu Rashed",
+        "author": "Muhammed Zafar Iqbal",
+        "image": "https://example.com/amar-bondhu-rashed.jpg",
+        "review": "A moving story of friendship and bravery during the Liberation War of Bangladesh.",
+        "totalPages": 120,
+        "rating": 4.8,
+        "category": "Historical Fiction",
+        "tags": ["Liberation War", "Friendship"],
+        "publisher": "Onnoprokash",
+        "yearOfPublishing": 1986
+      },
+      {
+        "bookId": 3,
+        "bookName": "Ekattorer Dinguli",
+        "author": "Jahanara Imam",
+        "image": "https://example.com/ekattorer-dinguli.jpg",
+        "review": "A poignant memoir capturing the struggles and sacrifices during 1971.",
+        "totalPages": 300,
+        "rating": 4.9,
+        "category": "Non-Fiction",
+        "tags": ["Memoir", "Liberation War"],
+        "publisher": "Shandhani Prakashani",
+        "yearOfPublishing": 1986
+      },
+      {
+        "bookId": 4,
+        "bookName": "Himu Somogro",
+        "author": "Humayun Ahmed",
+        "image": "https://example.com/himu-somogro.jpg",
+        "review": "A collection of stories about Himu, a whimsical and philosophical character.",
+        "totalPages": 400,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": ["Philosophy", "Humor"],
+        "publisher": "Annya Prokash",
+        "yearOfPublishing": 1995
+      },
+      {
+        "bookId": 5,
+        "bookName": "Debi",
+        "author": "Humayun Ahmed",
+        "image": "https://example.com/debi.jpg",
+        "review": "A mysterious and thrilling story about supernatural occurrences.",
+        "totalPages": 200,
+        "rating": 4.7,
+        "category": "Thriller",
+        "tags": ["Mystery", "Supernatural"],
+        "publisher": "Onnoprokash",
+        "yearOfPublishing": 1993
+      },
+      {
+        "bookId": 6,
+        "bookName": "Shonkhonil Karagar",
+        "author": "Humayun Ahmed",
+        "image": "https://example.com/shonkhonil-karagar.jpg",
+        "review": "A tragic yet beautiful story about familial struggles and relationships.",
+        "totalPages": 250,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": ["Family", "Drama"],
+        "publisher": "Annya Prokash",
+        "yearOfPublishing": 1985
+      },
+      {
+        "bookId": 7,
+        "bookName": "Paradoxical Sajid",
+        "author": "Arif Azad",
+        "image": "https://example.com/paradoxical-sajid.jpg",
+        "review": "An engaging book that explores faith, logic, and spirituality.",
+        "totalPages": 260,
+        "rating": 4.8,
+        "category": "Non-Fiction",
+        "tags": ["Faith", "Spirituality"],
+        "publisher": "Anannya",
+        "yearOfPublishing": 2017
+      },
+      {
+        "bookId": 8,
+        "bookName": "Alo Andhari",
+        "author": "Begum Rokeya",
+        "image": "https://example.com/alo-andhari.jpg",
+        "review": "A powerful narrative shedding light on women's struggles in society.",
+        "totalPages": 190,
+        "rating": 4.9,
+        "category": "Feminist Literature",
+        "tags": ["Women's Rights", "Society"],
+        "publisher": "Mohammadi Library",
+        "yearOfPublishing": 1922
+      },
+      {
+        "bookId": 9,
+        "bookName": "Dipu Number Two",
+        "author": "Muhammed Zafar Iqbal",
+        "image": "https://example.com/dipu-number-two.jpg",
+        "review": "A delightful coming-of-age story filled with adventures and life lessons.",
+        "totalPages": 175,
+        "rating": 4.5,
+        "category": "Young Adult",
+        "tags": ["Adventure", "Friendship"],
+        "publisher": "Ananya",
+        "yearOfPublishing": 1984
+      }
+    ]
+  }
+  
